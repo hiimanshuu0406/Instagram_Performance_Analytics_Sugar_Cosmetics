@@ -4,14 +4,20 @@
 
 This project analyzes Sugar Cosmetics’ Instagram performance to understand engagement patterns, content effectiveness, posting behavior, and audience interactions. Using Excel for cleaning, visualization, and dashboard creation, the study examines metrics such as likes, comments, post frequency, and content categories to uncover insights that can help improve social media strategy.
 
+---
+
 ### 📈 Dashboard
 
 <img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/2c2c3d31-8aba-4db0-8053-cd3741f4d7bf" />
+
+---
 
 ### ❓ Business Problem
 1. Identify which types of posts generate the highest engagement.
 2. Understand how posting frequency and timing affect audience response.
 3. Provide insights to optimize future Instagram content strategy.
+
+---
 
 ### 🔎 Methodology
 | Phase | Activity |
@@ -19,10 +25,14 @@ This project analyzes Sugar Cosmetics’ Instagram performance to understand eng
 | **Phase 1 – Data Cleaning & Preparation** | Cleaned and formatted Instagram post data, standardized dates and categories, and created calculated fields such as engagement rate. |
 | **Phase 2 – Power BI Dashboard** | Imported cleaned data into Power BI, built interactive visuals, created KPI cards, slicers, and insights-driven dashboards. |
 
+---
+
 ### 🧠 Skills and Tools Used
 1. Excel: Data Processing and Cleaning
 2. Analysis: Exploratory Data Analysis, Trend Interpretation.
 3. Visualization: Interactive charts and insights presentation.
+
+---
 
 ### 💡 Results & Business Recommendations 
 1. Focus on top-performing content categories to boost engagement.
